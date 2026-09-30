@@ -1,6 +1,6 @@
 # Seyir
 
-opencode'a kullanıcının kendi tarayıcısını (Brave, giriş yapılmış oturumlarıyla) kullandıran eklenti + MCP köprüsü. Claude in Chrome ve Codex Chrome eklentisinin opencode karşılığı. 30 Eyl 2026'da yazıldı. Yerel klasör `~/Developer/opencode-tarayici` (ad sonradan Seyir oldu; klasör, native host ve kasa yolları kırılmasın diye taşınmadı). Public vitrin: github.com/afsozer/seyir (lisanssız, tüm hakları saklı).
+opencode'a kullanıcının kendi tarayıcısını (Brave, giriş yapılmış oturumlarıyla) kullandıran eklenti + MCP köprüsü. Claude in Chrome ve Codex Chrome eklentisinin opencode karşılığı. 30 Eyl 2026'da yazıldı. Yerel klasör `~/Developer/opencode-tarayici` (ad sonradan Seyir oldu; klasör, native host ve kasa yolları kırılmasın diye taşınmadı). Public vitrin: github.com/afsozer/seyir (lisans dosyası yok; README: kullanılabilir, kopyalama/değiştirme/dağıtma yasak).
 
 ## Kurulum (bir kez)
 

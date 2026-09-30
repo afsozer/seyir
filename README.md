@@ -40,6 +40,6 @@ Mimari, kararlar ve bilinen sınırlar: [docs/seyir.md](docs/seyir.md).
 
 ## License
 
-© 2026 Alpaslan Fatih Sözer. All rights reserved. The source code is published for review only; it may not be used, copied, modified or distributed without written permission.
+© 2026 Alpaslan Fatih Sözer. All rights reserved. You may use this software. You may not copy (beyond the copies strictly necessary to install and run it), modify or distribute it, in whole or in part, without written permission.
 
-Tüm hakları saklıdır. Kaynak kod yalnızca inceleme amacıyla yayımlanmıştır; yazılı izin olmadan kullanılamaz, kopyalanamaz, değiştirilemez veya dağıtılamaz.
+Tüm hakları saklıdır. Bu yazılım kullanılabilir. Kurulum ve çalıştırma için zorunlu kopyalar dışında, yazılı izin olmadan tamamen ya da kısmen kopyalanamaz, değiştirilemez ve dağıtılamaz.
