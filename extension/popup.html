@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<style>
+  :root { color-scheme: light dark; --tur: #d97706; --kenar: color-mix(in srgb, currentColor 15%, transparent); }
+  body { font: 13px/1.4 -apple-system, system-ui, sans-serif; margin: 0; width: 280px; padding: 12px; }
+  h1 { font-size: 14px; margin: 0 0 10px; display: flex; align-items: center; gap: 6px; }
+  .nokta { width: 9px; height: 9px; border-radius: 50%; background: #9ca3af; display: inline-block; }
+  .nokta.acik { background: #16a34a; } .nokta.kapali { background: #dc2626; }
+  .kutu { border: 1px solid var(--kenar); border-radius: 8px; padding: 8px 10px; margin-bottom: 8px; }
+  .kucuk { font-size: 11px; opacity: .7; }
+  ul { list-style: none; padding: 0; margin: 4px 0 0; }
+  li { display: flex; align-items: center; gap: 6px; padding: 2px 0; }
+  .renk { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+  button { width: 100%; padding: 7px; border-radius: 6px; border: 1px solid var(--kenar); background: transparent;
+           color: inherit; font: inherit; cursor: pointer; margin-top: 6px; }
+  button.ana { background: var(--tur); border-color: var(--tur); color: #fff; }
+  code { font-size: 11px; word-break: break-all; }
+</style>
+</head>
+<body>
+  <h1><span id="nokta" class="nokta"></span> Seyir</h1>
+  <div class="kutu" id="kopru"></div>
+  <div class="kutu"><b>Oturumlar</b><ul id="oturumlar"></ul></div>
+  <div class="kutu">
+    <b>Bu sekme</b>
+    <div class="kucuk" id="sekme-bilgi"></div>
+    <button id="paylas"></button>
+  </div>
+  <button id="duraklat"></button>
+  <script src="popup.js"></script>
+</body>
+</html>

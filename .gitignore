@@ -1,0 +1,9 @@
+# makineye özgü / üretilen
+host/host.sh
+logs/
+.DS_Store
+node_modules/
+# kasa (Syncthing) işaretleri
+.stfolder/
+.stignore
+docs/.stfolder/
