@@ -1,0 +1,27 @@
+{
+  "title": "Seyir: browser extension and MCP bridge for opencode agents",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Sözer, Alpaslan Fatih"
+    }
+  ],
+  "description": "<p>Seyir is a browser extension and Model Context Protocol (MCP) bridge that lets opencode AI agents drive the user's real Chromium browser (Brave or Chrome) with their logged-in sessions. Each conversation opens its own tab group; the agent navigates, reads the page through the accessibility tree, clicks, types, fills forms and takes screenshots there. It does not see the user's other tabs unless one is shared from the extension icon. No network port is opened: the bridge is started by the browser through native messaging and MCP processes reach it over a user-only Unix socket. The user can pause or cancel the agent at any time. The extension, bridge and MCP server are plain JavaScript with no dependencies.</p><p>Seyir, opencode yapay zeka ajanına kullanıcının kendi tarayıcısını (Brave ya da Chrome) giriş yapılmış oturumlarıyla kullandıran bir tarayıcı eklentisi ve MCP köprüsüdür. Her konuşma kendi sekme grubunu açar; ajan orada gezinir, sayfayı okur, tıklar, yazar ve form doldurur. Kullanıcının öteki sekmelerini görmez, açık ağ portu yoktur ve kullanıcı ajanı istediği an durdurabilir.</p>",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "opencode",
+    "browser-extension",
+    "browser-automation",
+    "ai-agent",
+    "chrome-devtools-protocol"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/afsozer/seyir",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

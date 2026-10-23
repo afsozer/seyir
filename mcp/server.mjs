@@ -11,7 +11,7 @@ import net from "node:net";
 import os from "node:os";
 import path from "node:path";
 
-const SURUM = "0.1.0";
+const SURUM = "0.1.1";
 const DIZIN = process.env.OCT_SOKET_DIZINI || `/tmp/opencode-tarayici-${os.userInfo().username}`;
 const EKRAN_DIZINI = path.join(os.tmpdir(), "opencode-tarayici-ekran");
 const OTURUM = randomUUID();

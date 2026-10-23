@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Bu yazılımı kullanırsanız lütfen aşağıdaki künyeyle atıf yapın. If you use this software, please cite it as below."
+type: software
+title: "Seyir"
+abstract: >-
+  Browser extension and MCP bridge that lets opencode AI agents drive the
+  user's real Chromium browser (Brave or Chrome) with their logged-in
+  sessions, inside a tab group of their own per conversation. The agent
+  navigates, reads pages through the accessibility tree, clicks, types and
+  fills forms; it sees no other tabs, no network port is opened, and the user
+  can pause or cancel it at any time.
+authors:
+  - family-names: "Sözer"
+    given-names: "Alpaslan Fatih"
+version: "0.1.1"
+date-released: "2026-10-23"
+license: AGPL-3.0-only
+repository-code: "https://github.com/afsozer/seyir"
+keywords:
+  - mcp
+  - model-context-protocol
+  - opencode
+  - browser-extension
+  - browser-automation
+  - ai-agent
+  - chrome-devtools-protocol

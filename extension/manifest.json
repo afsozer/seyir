@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Seyir",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "opencode ajanına tarayıcını oturumlarınla kullandırır: kendi sekme grubunda gezinir, okur, tıklar, yazar.",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApiKwanxT87wmsZsMdYXBHH3lq8Cy4yeplHWHoLwKh1CmnyoJLXP1XopwOceV47Jd1kybHNFLefAd86638s8Kl4TAYWe+vQCWvThkABWUjCxdP7omO+MIibLQ4o+o8cHvI3iUYrwzYBnJEv5TtSRVoh68F2NeNrBDWshFYoQsRZqcC4Z/rQI7qDr1Ik21/ZCiTaDf5TCh7H3PNOpwyDHFjZJhtMV/qLadd1TnTitYqls4Id1QxRsbB7b/CldB8fzWpQVmxqPD6byPvrrgGnzInAfJC3uOp4etZialJsDiAogd+THaTPvYj4HWm1ziDRnx9gNUTwiQy+KYIr4d9sMgpwIDAQAB",
   "minimum_chrome_version": "116",
