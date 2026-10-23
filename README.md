@@ -40,6 +40,6 @@ Mimari, kararlar ve bilinen sınırlar: [docs/seyir.md](docs/seyir.md).
 
 ## License
 
-© 2026 Alpaslan Fatih Sözer. All rights reserved. You may use this software. You may not copy (beyond the copies strictly necessary to install and run it), modify or distribute it, in whole or in part, without written permission.
+Licensed under the GNU Affero General Public License, version 3 only (`AGPL-3.0-only`); the full text is in [LICENSE](LICENSE). If you modify the software and offer it to others over a network, you must make your modified source code available to those users under the same licence.
 
-Tüm hakları saklıdır. Bu yazılım kullanılabilir. Kurulum ve çalıştırma için zorunlu kopyalar dışında, yazılı izin olmadan tamamen ya da kısmen kopyalanamaz, değiştirilemez ve dağıtılamaz.
+GNU Affero Genel Kamu Lisansı sürüm 3 ile lisanslanmıştır (`AGPL-3.0-only`); tam metin [LICENSE](LICENSE) dosyasındadır. Yazılımı değiştirip ağ üzerinden başkalarına hizmet olarak sunarsanız, değiştirdiğiniz kaynak kodu da o kullanıcılara aynı lisansla sunmanız gerekir.
