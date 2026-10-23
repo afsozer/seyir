@@ -16,6 +16,7 @@ version: "0.1.1"
 date-released: "2026-10-23"
 license: AGPL-3.0-only
 repository-code: "https://github.com/afsozer/seyir"
+doi: "10.5281/zenodo.23603231"
 keywords:
   - mcp
   - model-context-protocol

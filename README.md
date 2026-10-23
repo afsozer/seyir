@@ -5,6 +5,8 @@ Claude in Chrome ve Codex Chrome eklentisinin [opencode](https://opencode.ai) ka
 
 *A browser extension + MCP bridge that lets opencode agents drive your real Chromium browser (Brave/Chrome) with your logged-in sessions, inside their own tab group — the opencode counterpart of Claude in Chrome.*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23603231.svg)](https://doi.org/10.5281/zenodo.23603231)
+
 ## Nasıl çalışır
 
 ```
