@@ -40,6 +40,7 @@ opencode servisi ─MCP stdio─> mcp/server.mjs ─Unix soketi─> host/host.mj
 | `extension/background.js` | Oturumlar, sekme grupları, yetki, CDP (`chrome.debugger`), araçlar. |
 | `extension/sayfa.js` | Sayfaya enjekte edilen tek fonksiyon: ağaç, ref'ler, form doldurma. Kendi kendine yeter (`executeScript` kaynağı kopyalar). |
 | `extension/popup.*` | Durum, oturumlar, sekme paylaşma, duraklatma. |
+| `extension/ikon/` | Yelkenli ikon (24 Eki 2026, eski "OC" yazılı kareden). Kaynak `ikon.svg` (48/128) ve sadeleştirilmiş `ikon-kucuk.svg` (16/32, kenar boşluğu yok, düz kenarlar piksele oturur). PNG'ler `bin/ikon.sh` ile headless Brave/Chrome'da çizilir; SVG'yi değiştirince betiği çalıştır. Zemin `#d97706`, rozet ve popup rengiyle aynı. |
 
 Tek sefer bakılan sistem: Claude in Chrome (`claude --chrome-native-host` → `/tmp/claude-mcp-browser-bridge-sozer/<pid>.sock`) ve Codex (`ChatGPT for Chrome` binary'si → `/tmp/codex-browser-use/<uuid>.sock`) aynı düzeni kullanıyor. Codex farklı olarak modele tek bir `js` aracı verip kod yazdırıyor; burada, zayıf/ucuz modellerde daha sağlam diye Claude'un sabit araç listesi tercih edildi.
 
